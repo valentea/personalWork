@@ -1,0 +1,40 @@
+//#define _USE_MATH_DEFINES
+//#define M_PI 3.14159265358979323846
+
+#include <iostream>
+#include <cmath>
+#include <math.h>
+
+
+using namespace std;
+
+double GetRadiansFromDegrees(double UserInput);
+
+int main() {
+    double  UserInputThetaInDegrees;
+    cout << "Please Enter A value for Theta between 15 and 75" << endl;
+    cin >> UserInputThetaInDegrees;
+
+    double UserInputThetaInRadians;
+    double MaxNumberInCollum;
+
+    UserInputThetaInRadians = GetRadiansFromDegrees(UserInputThetaInDegrees);
+
+
+    for (int i = 1; i < 31; i++) {
+        MaxNumberInCollum = tan(UserInputThetaInRadians)*i;
+        floor(MaxNumberInCollum);
+        for (int j = 1; j <= MaxNumberInCollum; j++) {
+            cout << "*";
+        }
+        //cout << "   LINE: " << i << "||||| Max: " << MaxNumberInCollum << endl;
+        cout << endl;
+    }
+    return 0;
+}
+
+double GetRadiansFromDegrees(double UserInput){
+    double Radians;
+    Radians = (UserInput * M_PI) / 180;
+    return Radians;
+}

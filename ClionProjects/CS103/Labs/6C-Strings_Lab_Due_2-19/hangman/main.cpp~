@@ -1,0 +1,77 @@
+// hangman.cpp
+// Hangman game illustrates string library functions, 
+// character arrays, arrays of pointers, etc.
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+#include <cstring>
+
+using namespace std;
+
+// Prototype. we'll define this below.
+bool processGuess(char* word, const char* targetWord, char guess);
+
+// Define an array of strings (since a string is just a char array)
+//  and since string are just char *'s, we really want an array of char *'s
+const char* wordBank[] = {"computer", "president", "trojan", "program",
+                          "coffee", "library", "football", "popcorn",
+                          "science", "engineer"};
+
+const int numWords = 10;
+
+int main()
+{
+    srand(time(0));
+    char guess;
+    int numTurns = 10;
+
+    // Pick a random word from the wordBank
+    const char* targetWord = wordBank[rand() % numWords];
+
+    // More initialization code as neede
+
+    int lengthOfTargetWord = strlen(targetWord);
+    //char word[lengthOfTargetWord+1];
+    char word[80];
+    for (int i = 0; i < lengthOfTargetWord; i++) {
+        word[i] = '*';
+    }
+    word[lengthOfTargetWord] = '\0';
+
+    bool correctLetter = false;
+
+    while(numTurns!=0) {
+        cout << "targetWord: " << targetWord << endl << endl;
+        cout << "Current word: " << word << endl;
+        cout << numTurns <<  " remain...Enter a letter to guess:" << endl;
+        cin >> guess;
+        correctLetter = processGuess(word, targetWord, guess);
+
+        if (correctLetter == false) {
+            numTurns--;
+        }
+
+        if(strcmp(targetWord,word)==0 ){
+            cout << "The word was: " << targetWord << ". You win!" << endl;
+            return 0;
+        }
+    }
+    cout << "Too many turns...You lose!" << endl;
+    return 0;
+}
+
+// Given the current version of the word, target/selected word, and
+// the character that the user just guessed, change the word to 
+// "turn on" any occurrences the guess character and return a count
+// of how many occurrences of 'guess' were found
+bool processGuess(char* word, const char* targetWord, char guess) {
+    bool check = false;
+    int lengthOfTargetWord = strlen(targetWord);
+    for (int i = 0; i < lengthOfTargetWord; ++i) {
+        if(*(targetWord + i) == guess){
+            *(word + i) = *(targetWord + i);
+            check = true;
+        }
+    }
+    return check;
+}

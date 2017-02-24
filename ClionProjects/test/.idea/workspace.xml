@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="ClionProjects" targetName="ClionProjects" />
+      <config projectName="codTest" targetName="codTest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="648697ac-7d19-4941-91d2-7979ef8766d7" name="Default" comment="" />
+    <ignored path="ClionProjects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ClionProjects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CS103/Labs/turtles/lab-turtles/x.cpp" />
+        <option value="$PROJECT_DIR$/CS103/Labs/turtles/lab-turtles/turtle.cpp" />
+        <option value="$PROJECT_DIR$/CS103/Labs/turtles/lab-turtles/turtle.h" />
+        <option value="$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/bigint.h" />
+        <option value="$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/bigint.cpp" />
+        <option value="$PROJECT_DIR$/CS103/Labs/7Lab-Valgrind_Due_3-4/ScrambleWord/main.cpp" />
+        <option value="$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/queue.h" />
+        <option value="$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/queue_test.cpp" />
+        <option value="$USER_HOME$/Desktop/x.cpp" />
+        <option value="$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/queue.cpp" />
+        <option value="$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/mazeio.cpp" />
+        <option value="$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/mazeio.h" />
+        <option value="$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/maze.cpp" />
+        <option value="$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/art.cpp" />
+        <option value="$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/shape.cpp" />
+        <option value="$PROJECT_DIR$/CS103/Programing Assinment/Six Degrees of Kevin Bacon/network.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1911" />
+    <option name="y" value="-9" />
+    <option name="width" value="1698" />
+    <option name="height" value="1068" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CS103/Labs/7Lab-Valgrind_Due_3-4/ScrambleWord/main.cpp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.codTest">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ClionProjects" TARGET_NAME="ClionProjects" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ClionProjects" TARGET_NAME="ClionProjects" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClionProjects" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ClionProjects" TARGET_NAME="ClionProjects" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ClionProjects" RUN_TARGET_NAME="ClionProjects">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="C:\Users\Alex\ClionProjects\CS103\Labs\7Lab-Valgrind_Due_3-4\ScrambleWord\main.cpp" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="codTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="codTest" TARGET_NAME="codTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="codTest" RUN_TARGET_NAME="codTest">
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.ClionProjects" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="2" class="java.lang.String" itemvalue="Application.codTest" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="648697ac-7d19-4941-91d2-7979ef8766d7" name="Default" comment="" />
+      <created>1456199404770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1456199404770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1911" y="-9" width="1698" height="1068" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30490017" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905138" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32268724" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3681257" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39943343" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988764" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3681257" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905138" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16904384" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://C:/Program Files (x86)/cygwin64/usr/include/w32api/commctrl.h</url>
+          <line>379</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CS103/Programing Assinment/Six Degrees of Kevin Bacon/network.cpp</url>
+          <line>240</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/turtle.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/shape.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/vanish.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/maze.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/mazeio.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/queue.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/mazeio.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/queue.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/maze.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/mazeio.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/queue.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/maze.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/bigint.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/bigint.h" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/test0.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/8Binsearch-Lab_Due_3-11/lab-binsearch/main.cpp" />
+    <entry file="file://C:/Program Files (x86)/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include/c++/bits/ios_base.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="794" column="2" selection-start-line="794" selection-start-column="2" selection-end-line="794" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/7Lab-Valgrind_Due_3-4/ScrambleWord/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/queue.h" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/queue_test.cpp" />
+    <entry file="file://C:/Program Files (x86)/cygwin64/usr/include/w32api/commctrl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="382" column="70" selection-start-line="382" selection-start-column="70" selection-end-line="382" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/cygwin64/usr/include/w32api/strsafe.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1782" column="10" selection-start-line="1782" selection-start-column="10" selection-end-line="1782" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/queue.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/mazeio.h" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/mazeio.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/A Mazing BFS/amaze/maze.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/draw.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/draw.h" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/x.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/art.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/turtle.h" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/myart.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/turtle.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/bigint (2).h" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/shape.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/bases.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/fact.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/copies.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/bigint.h" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/bigint.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/9Lab-turtles_Due_3-25/New folder/vanish.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Midterm/pm-sp16/election.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Labs/10Lab-bigint_Due_4-1/bigint/test0.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/The Social Network/network1/network.h" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/Six Degrees of Kevin Bacon/user.h" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/Six Degrees of Kevin Bacon/network2/social_network.cpp" />
+    <entry file="file://$PROJECT_DIR$/CS103/Programing Assinment/Six Degrees of Kevin Bacon/network.cpp" />
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2114165" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,43 @@
+user name is: Mark Redekopp
+user ID is: 0
+user birth year is: 1978
+user zip code is: 90018
+Mark Redekopp's friends are: 2 3 5 
+----------------------------
+user name is: Juju Smith
+user ID is: 1
+user birth year is: 1995
+user zip code is: 90271
+Juju Smith's friends are: 2 
+----------------------------
+user name is: Tommy Trojan
+user ID is: 2
+user birth year is: 1885
+user zip code is: 90089
+Tommy Trojan's friends are: 0 1 
+----------------------------
+user name is: Max Nikias
+user ID is: 3
+user birth year is: 1945
+user zip code is: 91103
+Max Nikias's friends are: 0 4 
+----------------------------
+user name is: Jane Doe
+user ID is: 4
+user birth year is: 1988
+user zip code is: 90007
+Jane Doe's friends are: 3 
+----------------------------
+user name is: Steph Curry
+user ID is: 5
+user birth year is: 1988
+user zip code is: 94027
+Steph Curry's friends are: 0 
+----------------------------
+user name is: a v
+user ID is: 6
+user birth year is: 1997
+user zip code is: 93103
+a v's friends are: 
+----------------------------
+===================================================================================

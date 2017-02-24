@@ -1,0 +1,41 @@
+CSCI 103 Programming Assignment 1, Hailstone, Spring 2015
+
+Name: Alex Valente
+Email Address:  valentea@usc.edu
+
+:none
+
+================================ Questions ==================================
+
+:A while loop because as the program goes on we are trying to get the value
+to be quivalent to one. Once it does equal one, we can continue to the rest
+of the code. 
+
+
+  input range  | minimum length | achieved by | maximum length | achieved by
+-----------------------------------------------------------------------------
+    50 100     |       6        |     64      |      118       |     97      
+   100 200     |       7        |    128      |      124       |    171      
+   200 400     |       8        |    256      |      143       |    327      
+
+:The are always even, because it will always end with "4, 2, 1". Meaning that
+no matter what we will always need an even number to get to the number 4. 
+If we start with an odd, there is always one more step to make the number 
+you are working with to be even. Which is where we would be if we started 
+with an even number.  
+
+
+X is : 703
+
+3b. Explain, briefly, the way in which you used your hailstats program
+(i.e., which inputs you gave it) to find this answer.
+
+: I changed my hail stats program to output the value of loops only when 
+th number of loops is greater than 150. But after I did that I saw that 
+the the Minimum Lenth (mL) is ways 
+
+================================ Remarks ====================================
+
+Do you have any other remarks?
+
+:

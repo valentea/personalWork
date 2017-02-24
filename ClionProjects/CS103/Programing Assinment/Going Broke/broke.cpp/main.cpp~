@@ -1,0 +1,97 @@
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+int flipCoin();
+int whoWon(int playerCoins[]);
+
+int main() {
+    //ALL NEEDED VARIABLES
+
+    //TOP PRIORITY VARIABLES
+    int numberOfSimulations = 100000;
+    const int numberOfPlayers = 3;
+    int startingNumC = 3;
+
+    int numberOfTurns = 0;
+    double averageNumberOfTurns = 0;
+    bool heads = true;
+    //INITIALIZE RAND SEED
+    srand(time(NULL));
+    //POSITION OF PLAYERS COIN VALUES IN ARRAYS
+    int bill = 0;
+    int sarah = 1;
+    int john = 2;
+    bool noOneLost = true;
+    int winner = noOneLost;
+    int billCSide = 1;
+    int sarahCSide = 1;
+    int johnCSide = 1;
+    //NUMBER OF COINS AT ANY POINT IN THE GAME
+    int rollOrder[] = {bill, sarah, john};
+    int coinSideVal[] = {billCSide, sarahCSide, johnCSide};
+
+    cout << "Enter number of coins followed by number of simulations" << endl;
+    cin >> startingNumC >> numberOfSimulations;
+
+    int billNumC = startingNumC;
+    int sarahNumC = startingNumC;
+    int johnNumC = startingNumC;
+
+    for (int k = 0; k < numberOfSimulations; k++) {
+        int coinsTotal[numberOfPlayers] = {billNumC, sarahNumC, johnNumC};
+        numberOfTurns = 0;
+        while (coinsTotal[bill] != 0 && coinsTotal[sarah] != 0 && coinsTotal[john] != 0) {
+            for (int rollTurn = 0; rollTurn < numberOfPlayers; rollTurn++) {
+                coinSideVal[rollTurn] = flipCoin();
+            }
+            winner = whoWon(coinSideVal);
+            if (winner != -1) {
+                for (int i = 0; i < numberOfPlayers; i++) {
+                    coinsTotal[i] = coinsTotal[i] - 1;
+                }
+                coinsTotal[winner] = coinsTotal[winner] + numberOfPlayers;
+            }
+            numberOfTurns++;
+        }
+        averageNumberOfTurns = numberOfTurns + averageNumberOfTurns;
+    }
+    cout << averageNumberOfTurns << "  ";
+    averageNumberOfTurns = averageNumberOfTurns/numberOfSimulations;
+    cout << averageNumberOfTurns;
+}
+
+int flipCoin(){
+    int heads = 0;
+    int coinSide = 0;
+    coinSide = rand()%2;
+    if(coinSide == 1){
+        heads = 1;
+    }
+    return heads;
+}
+
+int whoWon(int playerCoins[]){
+    int bill = 0;
+    int sarah = 1;
+    int john = 2;
+    if(playerCoins[bill] == playerCoins[sarah] && playerCoins[sarah] == playerCoins[john]){
+        return -1;
+    }
+    for(int i = 0; i <= 1; i++){
+        if(playerCoins[i] == playerCoins[i+1]){
+            continue;
+        }
+        else if(i == 1){
+            return john;
+        }
+        else if(i == 0 && playerCoins[i+1] == playerCoins[i+2]){
+            return bill;
+        }
+        else if(i == 0 && playerCoins[i] == playerCoins[i+2]){
+            return sarah;
+        }
+    }
+    return 0;
+}

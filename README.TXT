@@ -1,0 +1,1 @@
+Personal Code Projects of Alex Valente, All for educational use and self growth
